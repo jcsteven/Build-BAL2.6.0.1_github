@@ -1,4 +1,4 @@
-This the build scrip for: Build-BAL2.6.0.1_gitgub-V201808150303
+This the build scrip for: Build-BAL2.6.0.1_gitgub-V201808150304
 b2- 2018-0904
 modify the ONL github to https://github.com/jcsteven/OpenNetworkLinux.git -b asxvolt16
 b1- 2018-0901
