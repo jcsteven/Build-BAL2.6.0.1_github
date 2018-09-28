@@ -47,7 +47,7 @@ EDGECORE_DOWNLOAD_DIR=${HOME}/edgecore/download
 : ${BALSRC_ZIPNAME:=SW-BCM68620_2_6_0_1_github.zip}
 
 : ${SWISDK_TARNAME:=sdk-all-6.5.7}
-: ${PATCH_FILENAME:=ACCTON_BAL_2.6.0.1_github-V201808150304.patch}
+: ${PATCH_FILENAME:=ACCTON_BAL_2.6.0.1_github-V201808150305.patch}
 
 
 BLOG_DIR="Build-log"
